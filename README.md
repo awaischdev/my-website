@@ -3,5 +3,4 @@
 This is really awesome.
 
 
-New editing on update-reame branch
-Uupdated locally.
+Updates made on master on github before rebase.
